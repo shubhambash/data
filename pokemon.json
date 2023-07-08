@@ -1,15 +1,3 @@
-{"data" : {
-    [
-        {
-            "name" : "pikachu",
-            "hp" : 100,
-            "attack" : 400,
-            "defense" : 200,
-            "speed" : 52,
-            "type1" : "grass",
-            "type2" : "poison"
-
-        }
-    ]
-}
+{
+"name" : "Shubham"
 }
